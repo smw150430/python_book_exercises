@@ -1,1 +1,2 @@
-# python_book_exercises
+# python_book_exercises 
+Exercises from Elements of Programming Interviews in Python
